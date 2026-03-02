@@ -8,6 +8,7 @@
 - [x] 169 Majority Element
 - [x] 217 Contains Duplicate
 - [x] 268 Missing Number
+- [x] 448 Find All Numbers Disappeared in Array
 
 ## Medium
 - [ ] None yet
