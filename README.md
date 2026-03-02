@@ -10,6 +10,7 @@
 - [x] 268 Missing Number
 - [x] 448 Find All Numbers Disappeared in Array
 - [x] 136 Single Number
+- [x] 020 Valid Parentheses
 
 ## Medium
 - [ ] None yet
