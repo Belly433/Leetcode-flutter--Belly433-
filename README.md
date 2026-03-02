@@ -18,5 +18,6 @@
 - [x] 125 Valid Palindrome
 - [x] 242 Valid Anagram
 - [x] 344 Reverse String
+- [x] 387 First Unique Character
 ## Medium
 - [ ] None yet
