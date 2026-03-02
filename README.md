@@ -20,5 +20,6 @@
 - [x] 344 Reverse String
 - [x] 387 First Unique Character
 - [x] 412 Fizz Buzz 
+- [x] 557 Reverse words String  
 ## Medium
 - [ ] None yet
