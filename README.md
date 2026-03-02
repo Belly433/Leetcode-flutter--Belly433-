@@ -9,6 +9,7 @@
 - [x] 217 Contains Duplicate
 - [x] 268 Missing Number
 - [x] 448 Find All Numbers Disappeared in Array
+- [x] 136 Single Number
 
 ## Medium
 - [ ] None yet
