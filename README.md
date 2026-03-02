@@ -19,5 +19,6 @@
 - [x] 242 Valid Anagram
 - [x] 344 Reverse String
 - [x] 387 First Unique Character
+- [x] 412 Fizz Buzz 
 ## Medium
 - [ ] None yet
