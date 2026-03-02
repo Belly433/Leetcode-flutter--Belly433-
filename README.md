@@ -11,6 +11,7 @@
 - [x] 448 Find All Numbers Disappeared in Array
 - [x] 136 Single Number
 - [x] 020 Valid Parentheses
+- [x] 026 Remove Duplicates from Sorted Array
 
 ## Medium
 - [ ] None yet
