@@ -15,5 +15,6 @@
 - [x] 027 Remove Element
 - [x] 028 Find the Index of the First Occurrence
 - [x] 058 Length of Last Word
+- [x] 125 Valid Palindrome
 ## Medium
 - [ ] None yet
