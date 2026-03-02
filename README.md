@@ -13,5 +13,6 @@
 - [x] 020 Valid Parentheses
 - [x] 026 Remove Duplicates from Sorted Array
 - [x] 027 Remove Element
+- [x] 028 Find the Index of the First Occurrence
 ## Medium
 - [ ] None yet
