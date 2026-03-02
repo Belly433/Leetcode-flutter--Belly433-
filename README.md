@@ -6,6 +6,7 @@
 - [x] 013 Roman To Integer
 - [x] 066 Plus One
 - [x] 169 Majority Element
+- [x] 217 Contains Duplicate
 
 ## Medium
 - [ ] None yet
