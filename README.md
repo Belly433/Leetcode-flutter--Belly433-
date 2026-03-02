@@ -12,6 +12,6 @@
 - [x] 136 Single Number
 - [x] 020 Valid Parentheses
 - [x] 026 Remove Duplicates from Sorted Array
-
+- [x] 027 Remove Element
 ## Medium
 - [ ] None yet
