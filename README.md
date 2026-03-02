@@ -14,5 +14,6 @@
 - [x] 026 Remove Duplicates from Sorted Array
 - [x] 027 Remove Element
 - [x] 028 Find the Index of the First Occurrence
+- [x] 058 Length of Last Word
 ## Medium
 - [ ] None yet
