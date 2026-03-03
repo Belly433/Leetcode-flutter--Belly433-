@@ -23,6 +23,7 @@
 - [x] 557 Reverse words String  
 - [x] 088 Merge sorted Array
 - [x] 283 Move Zeroes
+- [x] 349 Intersection of Two Arrays
 
 
 ## Medium
