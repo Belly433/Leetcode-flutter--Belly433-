@@ -27,6 +27,8 @@
 - [x] 350 Intersection of Two Arrays II
 - [x] 414 Third maximum Number
 - [x] 628 Maximum product of three Numbers
+- [x] 1002 Find Common Characters
+
 
 ## Medium
 - [ ] None yet
