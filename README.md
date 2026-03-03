@@ -24,7 +24,7 @@
 - [x] 088 Merge sorted Array
 - [x] 283 Move Zeroes
 - [x] 349 Intersection of Two Arrays
-
+- [x] 350 Intersection of Two Arrays II
 
 ## Medium
 - [ ] None yet
