@@ -28,6 +28,9 @@
 - [x] 414 Third maximum Number
 - [x] 628 Maximum product of three Numbers
 - [x] 121 Best time to buy and sell stock
+- [x] 070 Climbing Stairs
+
+
 
 
 ## Medium
