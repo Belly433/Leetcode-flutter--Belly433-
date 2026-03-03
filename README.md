@@ -21,5 +21,7 @@
 - [x] 387 First Unique Character
 - [x] 412 Fizz Buzz 
 - [x] 557 Reverse words String  
+- [x] 088 Merge sorted Array
+
 ## Medium
 - [ ] None yet
