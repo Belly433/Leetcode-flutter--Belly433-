@@ -25,6 +25,8 @@
 - [x] 283 Move Zeroes
 - [x] 349 Intersection of Two Arrays
 - [x] 350 Intersection of Two Arrays II
+- [x] 414 Third maximum Number
+
 
 ## Medium
 - [ ] None yet
