@@ -33,6 +33,7 @@
 - [x] 119 Pascals Triangle II
 - [x] 190 Reverse Bits
 - [x] 191 Number of Bits
+- [x] 202 Happy Number
 
 
 
