@@ -31,6 +31,8 @@
 - [x] 070 Climbing Stairs
 - [x] 014 Longest Common Prefix
 - [x] 119 Pascals Triangle II
+- [x] 190 Reverse Bits
+
 
 
 
