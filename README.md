@@ -36,6 +36,7 @@
 - [x] 202 Happy Number
 - [x] 231 Power of Two
 - [x] 326 Power of Three
+- [x] 342 Power of Four
 
 
 
