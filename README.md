@@ -38,7 +38,7 @@
 - [x] 326 Power of Three
 - [x] 342 Power of Four
 - [x] 401 Binary Watch
-
+- [x] 035 Search Insert Position
 
 
 ## Medium
