@@ -56,6 +56,9 @@
 - [x] 520_Detect Capital
 - [x] 709_To Lower Case
 - [x] 771_Jewels and Stones
+- [x] 002_Add Two Numbers
+
+
 
 
 ## Medium
