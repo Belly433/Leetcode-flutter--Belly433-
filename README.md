@@ -54,6 +54,7 @@
 - [x] 392 Is Subsequence
 - [x] 434_number_of_segments_in_string
 - [x] 520_Detect Capital
+- [x] 709_To Lower Case
 
 
 ## Medium
