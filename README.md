@@ -47,5 +47,7 @@
 - [x] 234 Palindrome Linked List
 - [x] 557 Reverse words in string III
 - [x] 704 Binary Search
+- [x] 009 Palindrome Number Categ 6
+
 ## Medium
 - [ ] None yet
