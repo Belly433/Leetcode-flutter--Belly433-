@@ -52,7 +52,9 @@
 - 125 Valid Palindrome
 - 242 Valid Anagram
 - [x] 392 Is Subsequence
-- [x] 434_number_of_segments_in_string.dart
+- [x] 434_number_of_segments_in_string
+- [x] 520_Detect Capital
+
 
 ## Medium
 - [ ] None yet
