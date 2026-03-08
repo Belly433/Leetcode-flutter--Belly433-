@@ -40,6 +40,8 @@
 - [x] 401 Binary Watch
 - [x] 035 Search Insert Position
 - [x] 069 Sqrt (x)
+- [x] 167 Two Sum II
+
 
 
 ## Medium
