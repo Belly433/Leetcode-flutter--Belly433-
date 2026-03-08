@@ -43,6 +43,6 @@
 - [x] 167 Two Sum II
 - [x] 189 Rotate Array
 - [x] 206 Reverse Linked List
-
+- [x] 232 Implement Queu using Stacks
 ## Medium
 - [ ] None yet
