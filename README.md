@@ -51,6 +51,7 @@
 - 9 Palindrome Number
 - 125 Valid Palindrome
 - 242 Valid Anagram
+- [x] 392 Is Subsequence
 
 ## Medium
 - [ ] None yet
