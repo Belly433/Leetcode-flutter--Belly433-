@@ -46,5 +46,6 @@
 - [x] 232 Implement Queu using Stacks
 - [x] 234 Palindrome Linked List
 - [x] 557 Reverse words in string III
+- [x] 704 Binary Search
 ## Medium
 - [ ] None yet
