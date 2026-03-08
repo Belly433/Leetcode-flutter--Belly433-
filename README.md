@@ -44,5 +44,6 @@
 - [x] 189 Rotate Array
 - [x] 206 Reverse Linked List
 - [x] 232 Implement Queu using Stacks
+- [x] 234 Palindrome Linked List
 ## Medium
 - [ ] None yet
