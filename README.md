@@ -67,3 +67,4 @@
 - [x] 005_Longest_Palindromic_Substring 
 - [x] 015_Three sum
 - [x] 049_Group_anagrams
+- [x] 056_Merge_intervals
